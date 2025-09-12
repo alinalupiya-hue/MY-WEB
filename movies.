@@ -1,0 +1,5 @@
+movies=['wednsday','the diplomat','blood moon', 'nikita']
+movies.append('boss baby')
+movies.remove('nikita')
+movies.sort()
+print(movies)
